@@ -1,0 +1,21 @@
+# Flutter and Dart generated files
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+coverage/
+doc/api/
+
+# Local editor and operating system files
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Local credentials and environment settings
+.env
+.env.*
+*.pem
+*.key
